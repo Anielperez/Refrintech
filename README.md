@@ -1,4 +1,4 @@
-# web aplication
+# web app
 
 java
 
